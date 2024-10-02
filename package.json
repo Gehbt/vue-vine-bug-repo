@@ -1,0 +1,20 @@
+{
+  "name": "vue-vine-bug-repo",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.6.2",
+    "vite": "^5.4.8",
+    "vue": "^3.5.10",
+    "vue-vine": "^0.1.21"
+  },
+  "packageManager": "pnpm@9.11.0"
+}
